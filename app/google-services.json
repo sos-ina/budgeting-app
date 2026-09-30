@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057021995107",
+    "project_id": "budgeting-app-29993",
+    "storage_bucket": "budgeting-app-29993.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057021995107:android:ee7ed82a4b9e2cb46ab056",
+        "android_client_info": {
+          "package_name": "com.sosina.terefe.budgetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057021995107-a18h507vqqts8v34hutl5gs6ft2gnfkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sosina.terefe.budgetingapp",
+            "certificate_hash": "093e69d8b656b081faec36e71e8e23b9830e5b30"
+          }
+        },
+        {
+          "client_id": "1057021995107-c91rl092ql999pk2amt39h8vtmqcgu4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3-U91ZjQWIViIyDnEJTVGO2avoRP8bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057021995107-c91rl092ql999pk2amt39h8vtmqcgu4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

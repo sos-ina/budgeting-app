@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Receipt photos are saved in the app's cache folder, in "receipts". -->
+    <cache-path name="receipts" path="receipts/" />
+</paths>
